@@ -1,0 +1,12 @@
+html, body {
+    color: white;
+    cursor: crosshair;
+    background-image: url(https://wallpapercave.com/wp/wp2366112.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#target {
+    width: 10%;
+    position: absolute;
+}
